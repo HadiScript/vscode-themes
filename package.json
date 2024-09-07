@@ -2,7 +2,7 @@
   "name": "hadiscripts-themes",
   "displayName": "HadiScripts Themes",
   "description": "A collection of themes including Sun, City, and Navy, inspired by different moods and environments.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "HadiScriptThemes",
   "engines": {
     "vscode": "^1.56.0"
