@@ -1,0 +1,32 @@
+{
+  "name": "hadiscripts-themes",
+  "displayName": "HadiScripts Themes",
+  "description": "A collection of themes including Sun, City, and Navy, inspired by different moods and environments.",
+  "version": "1.1.0",
+  "publisher": "HadiScriptThemes",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jaff city",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jaff-city.json"
+      },
+      {
+        "label": "jaff sun",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jaff-sun.json"
+      },
+      {
+        "label": "jaff navy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jaff-navy.json"
+      }
+    ]
+  }
+}
